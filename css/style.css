@@ -1,0 +1,16 @@
+body{
+    background-image: url("../imag/fondo.jpg");
+    min-height: 600px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+/*.parallax{
+    background-image: url("../imag/f.jpg");
+    min-height: 600px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }*/
